@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "User Info",
+  "type": "object",
+    "anyOf": [{"required": ["name", "age", "city"]}],
+    "properties":{"name": {"type": "string"},
+                  "age": {"type": "number"},
+                  "city": {"type": "string"}
+                 }
+}
