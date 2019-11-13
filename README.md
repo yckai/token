@@ -1,5 +1,5 @@
 # token
-- Dévellopement:
+Dévellopement:
 ================
 Mettre en place une application accessible par le réseau proposant les services suivants:
 - Authentification et management par Token
